@@ -1,0 +1,47 @@
+
+          a.botonver {  text-decoration: none; text-align: center; background: #aab; border: 1px solid #000; border-radius: 5px; padding: 5px 15px;  } 
+          .botonenviar {  text-decoration: none; text-align: center; background: #aab; border: 1px solid #000;  border-radius: 5px; padding: 5px 15px;  } 
+        body { 
+             background-color: #151515} 
+
+
+            .formulario{
+
+                margin:auto;
+                background-color: #FB5E11;
+                color:#E0F8F1;
+                font-style: inerit;
+                margin-top: auto;
+                margin-bottom: 2px;
+                }
+                .formulario td {color:white;
+                                font-style: inerit;
+                                font-size:23px;
+                                text-align: center;
+}
+
+
+ h1 {
+
+font-family: arial;
+color:#FAFAFA;
+text-align: center;
+box-shadow: none;
+background-color: #FB5E11;
+}
+.mensaje {color:white;}
+footer {color:white;
+text-align:center;}
+
+
+  p {color:white; background: #aab; border: 1px solid #000; padding: 0px 0px; border: 1px solid #000; border-radius: 5px; }
+  table td {color:white;}
+  table tr {color:white;}
+  input.btn {
+
+ { text-decoration: none; text-align: center; background: #aab; border: 1px solid #000; border-radius: 5px; padding: 5px 10px; display: } 
+  }
+  .tabla  {
+background-color: #FB5E11;
+font-family: arial;
+  }
